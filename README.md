@@ -1,20 +1,17 @@
-# 📄 My Portfolio (Assignment #1)
+📌 Overview
 
-This is a simple **HTML Portfolio Project** created as **Assignment #1**.  
-It demonstrates basic HTML5 structure and semantic tags to showcase **personal information, education, skills, experience, and hobbies** in a clean format.
+This repository contains my HTML assignments completed as part of my web development learning journey. Each assignment focuses on practicing different HTML concepts such as text formatting, lists, links, tables, forms, multimedia, and page structure.
 
----
+📖 Learning Goals
 
-## 🚀 Features
-- ✅ Written in **pure HTML5**  
-- ✅ Structured with semantic elements (`<h1>`, `<ul>`, `<blockquote>`, `<address>`, etc.)  
-- ✅ Showcases **skills, education, experience, and hobbies**  
-- ✅ Uses **HTML formatting tags** like `<b>`, `<i>`, `<abbr>`, `<acronym>`, `<sup>`  
-- ✅ Beginner-friendly and easy to modify  
+Build clean and well-structured HTML pages
 
----
+Use semantic elements for better accessibility and SEO
 
-## 📂 Project Structure
-portfolio/
-│── index.html # Main portfolio file
-│── README.md # Documentation file
+Get comfortable with different types of content in HTML
+
+Prepare for styling with CSS and interactivity with JavaScript
+
+✅ Status
+
+All assignments are work in progress as I continue learning HTML and web development.
